@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
 
+OUTPUT : - https://rithikahir.github.io/challenge-3/
+
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
